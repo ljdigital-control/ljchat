@@ -1,6 +1,6 @@
 ---
 layout: home
-title: LJ Chat using Eleventy
+title: LJ Chat
 postsHeading: Latest posts
 archiveButtonText: See all posts
 metaDesc: 'this is a test'
